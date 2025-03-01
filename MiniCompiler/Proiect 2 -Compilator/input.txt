@@ -1,0 +1,51 @@
+﻿int gloabalvar1 =2672;
+
+struct MyStruct {
+    int field1 = 10;
+    float field2 = -5.23;
+    string String1 ="Happy New Year 2025";
+    bool hasString = true;
+    void myFunction(){
+    int min = -999;
+    float PI =3.14;
+    }
+    MyStruct();
+    ~MyStruct();
+};
+
+int addNumbers(int x, int y) {
+addNumbers(10, 20); // acest apel nu functioneaza, este doar pt a face functia recuriva
+return x + y;
+}
+
+int main() {
+    int a = 10;
+    int b = 20;
+    string mystring;
+        int gres = "Asta este o greseala";
+        int gresealaSyn =;
+    if(a<b)
+    {
+    mystring ="Adevarat";
+    }
+    else
+    {
+     mystring ="Fals";
+    }
+    int i =0;
+    int yet = 7;
+    while(i<3)
+    {
+    yet-=i;
+    i++;
+    }
+    int j; double maxim=0;
+    for(j=0;j<i;++j)
+    {
+    maxim = maxim* 0.2 + 74 - 12;
+    }
+    double result =a +maxim+ b; //addNumbers(a,b); // Apelul funcției,
+    return result;
+}
+
+@

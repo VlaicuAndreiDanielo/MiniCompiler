@@ -1,0 +1,10 @@
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\bin\Debug\Proiect 2 -Compilator.exe.config
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\bin\Debug\Proiect 2 -Compilator.exe
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\bin\Debug\Proiect 2 -Compilator.pdb
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\obj\Debug\Proiect 2 -Compilator.csproj.AssemblyReference.cache
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\obj\Debug\Proiect 2 -Compilator.csproj.CoreCompileInputs.cache
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\obj\Debug\Proiect 2 -Compilator.csproj.CopyComplete
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\obj\Debug\Proiect 2 -Compilator.exe
+C:\Computers\probleme C++\Proiect 2 -Compilator\Proiect 2 -Compilator\obj\Debug\Proiect 2 -Compilator.pdb
